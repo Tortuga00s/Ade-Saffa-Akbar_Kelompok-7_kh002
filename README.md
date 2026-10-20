@@ -1,18 +1,15 @@
 # Repository Pemrograman Mobile
 
-Repository ini berisi kumpulan tugas mata kuliah Pemrograman Mobile menggunakan Flutter.
+Repository kumpulan tugas mata kuliah Pemrograman Mobile menggunakan Flutter.
 
 ## Daftar Tugas
 
-- [Tugas 5 — Flutter](./tugas_5/)
+- [Tugas Sesi 2 — Setelan Awal Flutter](./tugas_2/)
+- [Tugas Sesi 5 — Flutter](./tugas_5/)
 
-## Struktur Repository
-
-Setiap tugas memiliki folder project Flutter masing-masing agar kode sumber dan konfigurasi tidak tercampur.
-
-## Teknologi
+## Teknologigit add tugas_2 README.md
+git status --short
 
 - Flutter
 - Dart
-- Firebase
 - Git dan GitHub
