@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282469176632",
+    "project_id": "tugas-latihan-522c6",
+    "storage_bucket": "tugas-latihan-522c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282469176632:android:baea30dec86ae22ded9dcd",
+        "android_client_info": {
+          "package_name": "com.example.tugas_latihan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgnccxYHLKt91e79BSPKmjZx_MTv9i8N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
