@@ -49,7 +49,6 @@ class DefaultFirebaseOptions {
     storageBucket: 'tugas-latihan-522c6.firebasestorage.app',
     measurementId: 'G-V8CJ31SG1R',
   );
-
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDgnccxYHLKt91e79BSPKmjZx_MTv9i8N0',
     appId: '1:282469176632:android:baea30dec86ae22ded9dcd',
